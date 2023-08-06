@@ -1,0 +1,188 @@
+
+{
+    "allFields" : [
+        {
+            "id": "11",
+            "name": "Κατσαμάκι",
+            "status": "stop",
+            "temp": "18",
+            "hAir": "78%",
+            "hSoil": "78%",
+            "rain": "125",
+            "pressure": "687",
+            "wind": "4",
+            "vane": "4",
+            "irrigation": "gun",
+            "pump": "4"
+        },
+        {
+            "id": "12",
+            "name": "Γκουτζιάταρλας",
+            "status": "stop",
+            "temp": "18",
+            "hAir": "78%",
+            "hSoil": "78%",
+            "rain": "125",
+            "pressure": "687",
+            "wind": "4",
+            "vane": "4",
+            "irrigation": "none",
+            "pump": "0"
+        },
+        {
+            "id": "13",
+            "name": "Πηγαδάκι 60",
+            "status": "stop",
+            "temp": "18",
+            "hAir": "78%",
+            "hSoil": "78%",
+            "rain": "125",
+            "pressure": "687",
+            "wind": "4",
+            "vane": "4",
+            "irrigation": "drip",
+            "pump": "0"
+        },
+        {
+            "id": "14",
+            "name": "Πηγαδάκι 6",
+            "status": "stop",
+            "temp": "18",
+            "hAir": "78%",
+            "hSoil": "78%",
+            "rain": "125",
+            "pressure": "687",
+            "wind": "4",
+            "vane": "4",
+            "irrigation": "dry",
+            "pump": "0"
+        },
+        {
+            "id": "15",
+            "name": "Καράπαπα",
+            "status": "stop",
+            "temp": "18",
+            "hAir": "78%",
+            "hSoil": "78%",
+            "rain": "125",
+            "pressure": "687",
+            "wind": "4",
+            "vane": "4",
+            "irrigation": "gun",
+            "pump": "1"
+        },
+        {
+            "id": "16",
+            "name": "Αναδασμός 28",
+            "status": "stop",
+            "temp": "18",
+            "hAir": "78%",
+            "hSoil": "78%",
+            "rain": "125",
+            "pressure": "687",
+            "wind": "4",
+            "vane": "4",
+            "irrigation": "drip",
+            "pump": "1"
+        },
+        {
+            "id": "17",
+            "name": "Αναδασμός 50",
+            "status": "stop",
+            "temp": "18",
+            "hAir": "78%",
+            "hSoil": "78%",
+            "rain": "125",
+            "pressure": "687",
+            "wind": "4",
+            "vane": "4",
+            "irrigation": "gun",
+            "pump": "1"
+        },
+        {
+            "id": "18",
+            "name": "Λίμνη",
+            "status": "stop",
+            "temp": "18",
+            "hAir": "78%",
+            "hSoil": "78%",
+            "rain": "125",
+            "pressure": "687",
+            "wind": "4",
+            "vane": "4",
+            "irrigation": "drip",
+            "pump": "3"
+        },
+        {
+            "id": "19",
+            "name": "Κάντερε",
+            "status": "stop",
+            "temp": "18",
+            "hAir": "78%",
+            "hSoil": "78%",
+            "rain": "125",
+            "pressure": "687",
+            "wind": "4",
+            "vane": "4",
+            "irrigation": "drip",
+            "pump": "3"
+        },
+        {
+            "id": "20",
+            "name": "Τσούκας",
+            "status": "stop",
+            "temp": "18",
+            "hAir": "78%",
+            "hSoil": "78%",
+            "rain": "125",
+            "pressure": "687",
+            "wind": "4",
+            "vane": "4",
+            "irrigation": "gun",
+            "pump": "0"
+        },
+        {
+            "id": "21",
+            "name": "Λοχίας",
+            "status": "stop",
+            "temp": "18",
+            "hAir": "78%",
+            "hSoil": "78%",
+            "rain": "125",
+            "pressure": "687",
+            "wind": "4",
+            "vane": "4",
+            "irrigation": "none",
+            "pump": "0"
+        }],
+    
+    "allWaters" : [
+        {
+            "id": "102",
+            "name": "Πηγαδάκι",
+            "split": true,
+            "splitIds": [1, 5, 6, 8]
+        },
+        {
+            "id": "104",
+            "name": "Αναδασμός (Ομαδική)",
+            "split": true,
+            "splitIds": [2, 3]
+        },
+        {
+            "id": "106",
+            "name": "Κάντερε",
+            "split": false
+        },
+        {
+            "id": "108",
+            "name": "Λίμνη",
+            "split": false
+        },
+        {
+            "id": "110",
+            "name": "Κατσαμάκι",
+            "split": false
+        }
+    ]
+}
